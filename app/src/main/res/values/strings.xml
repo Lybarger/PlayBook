@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlayBook1</string>
+    <string name="title_activity_main">UW Play Book</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string name="splash_title">Go Dawgs!</string>
+    <string name="splash_footnote">UW Basketball</string>
+
+</resources>
